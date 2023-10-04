@@ -1,1 +1,2 @@
 # Data-Analytics
+This project aims to analyze the perception of the film "Black Panther" on Twitter. The jupyter notebook file named "Black Panther" contains data assessment, data cleaning, data preprocessing and sentiment analysis. The power point file named "An Analysis Of Twitter's Perception About Black Panther" also contains further cleaning of the data, power bi dashboard, communication of the findings and conclution.
