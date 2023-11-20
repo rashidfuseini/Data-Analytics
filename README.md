@@ -8,4 +8,4 @@ Check out the power-point  here [link](https://github.com/rashidfuseini/Sentimen
 NLP techniques used: Sentiment Analysis
 Technologies: PowerBI  and Python
 
-Summary of findings;
+
